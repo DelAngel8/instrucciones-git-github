@@ -1,5 +1,5 @@
 # Instrucciones de git
-git config --global init.defaultBranch nombre <- cambiar el nombre del rama en general>
+git config --global init.defaultBranch nombre <- cambiar el nombre del rama en general
 git config --global -e <-- ir al fichero de configuración, puedes comprobar los cambios
 ## Instrucciones esenciales
 
@@ -36,5 +36,6 @@ git remote add origin https://github.com/DelAngel8/instrucciones-git-github.git 
 
 ## Instrucciones para ramas
 git branch <- obtiene las ramas del proyecto
+git branch nueva_rama <- crar una rama nueva
 git branch -M main <- cambiar nombre de rama actual ejemplo 'main'
-
+git checkout nombre_rama <- cambiar de rama
