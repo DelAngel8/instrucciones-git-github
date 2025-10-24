@@ -38,4 +38,6 @@ git remote add origin https://github.com/DelAngel8/instrucciones-git-github.git 
 git branch <- obtiene las ramas del proyecto
 git branch nueva_rama <- crar una rama nueva
 git branch -M main <- cambiar nombre de rama actual ejemplo 'main'
-git checkout nombre_rama <- cambiar de rama
+git checkout nombre_rama <- cambiar de rama existente
+git switch -c nombre_rama <-  crear rama y entrar en ella
+git branch -D <- Borrar rama
