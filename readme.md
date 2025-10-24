@@ -1,8 +1,10 @@
 # Instrucciones de git
 
 ## Instrucciones esenciales
+
 ### Iniciar repositorio
 git init <- iniciar el repositorio
+
 ### Añadir ficheros a la fase Added
 git add readme.md <- añadir fichero especifico
 git add .git add . <- añadir todos los documentos solo con el '.'
@@ -14,3 +16,5 @@ git rm --cached readme.md -f <- Forzar a que regrese al punto anterior sin añad
 
 ### subir a la fase 'commit' = validación
 git commit -m 'mensaje explicativo'
+git commit <- abre un documento donde puedes poner el mensaje en manual
+
