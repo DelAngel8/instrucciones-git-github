@@ -11,3 +11,6 @@ git add *.html <- añadir todos los ficheros con la instruccion despues del '*'
 git rm --cached readme.md -f <- Forzar a que regrese al punto anterior sin añadir
 ### Fichero para ignorar lo que no nos interesa
 .gitignore
+
+### subir a la fase 'commit' = validación
+git commit -m 'mensaje explicativo'
