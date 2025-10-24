@@ -41,3 +41,4 @@ git branch -M main <- cambiar nombre de rama actual ejemplo 'main'
 git checkout nombre_rama <- cambiar de rama existente
 git switch -c nombre_rama <-  crear rama y entrar en ella
 git branch -D <- Borrar rama
+git merge nombre_rama <- Fusionar rama con la actual
