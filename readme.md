@@ -1,5 +1,5 @@
 # Instrucciones de git
-git config --global init.defaultBranch nombre <- cambiar el nombre del rama en general
+git config --global init.defaultBranch nombre <- cambiar el nombre del rama en general>
 git config --global -e <-- ir al fichero de configuración, puedes comprobar los cambios
 ## Instrucciones esenciales
 
