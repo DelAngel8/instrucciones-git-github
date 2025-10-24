@@ -1,0 +1,7 @@
+supersecretos.txt <- ignora el fichero llamado
+*.txt <- ignora todos los ficheros que terminan en ".txt"
+super* <- ignora todos los ficheros que comienzan con "super">
+carpeta/ <- ignora la carpeta llamada "carpeta" y todo su contenido
+super*txt <- ignora todos los ficheros que comienzan con "super" y terminan con ".txt"
+
+supersecretos.txt
